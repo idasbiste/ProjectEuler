@@ -1,0 +1,2 @@
+For git tests purposes
+Add develop.txt on feature-git branch
